@@ -1,4 +1,5 @@
 **Space Bullet Hell**
+
 Space Bullet Hell is a fast-paced, automatic-firing bullet hell game built in Unity. Guide your lone astronaut through relentless waves of enemy ships and projectiles in deep space. With a wide arsenal of fully integrated weapons and challenging enemy encounters, this game delivers a complete and polished arcade experience.
 
 Table of Contents
@@ -41,7 +42,7 @@ In Space Bullet Hell, you play as an isolated astronaut piloting a damaged ship 
 
 Installation
 Prerequisites
-Unity (2019.4 LTS or later)
+Unity (6000 LTS or later)
 Steps
 Download the Project:
 Download the project archive from the provided link or copy the repository from your private source.
@@ -84,7 +85,7 @@ Optimized & Modular Code:
 The codebase is organized for ease of modification, with clearly separated systems for movement, shooting, and weapon management.
 
 Credits
-Space Bullet Hell was developed as a complete, polished arcade experience by [Your Name or Studio]. All assets, code, and designs are proprietary.
+Space Bullet Hell was developed as a complete, polished arcade experience by Nyaksha Games. All assets, codes, and designs are proprietary.
 
 License
-This game is a complete, finished product. All rights reserved © [Year] [Your Name or Studio].
+This game is a complete, finished product. All rights reserved © 2025 Nyaksha Games.
